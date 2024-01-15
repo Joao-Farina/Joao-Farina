@@ -8,9 +8,9 @@ Olá! Sou João, um apaixonado por tecnologia com uma base sólida em engenharia
 
 Atualmente, estou imerso no universo do desenvolvimento fullstack, com um foco especial em JavaScript. Desde que iniciei minha jornada, tenho dedicado meu tempo ao estudo e aprimoramento constante para elevar a qualidade do código que desenvolvo.
 
-📚 Estou estudando atualmente [javascript](https://www.javascript.com/) 
+📚 Estou estudando atualmente [javascript](https://www.javascript.com/) e [node.js](https://nodejs.org/en).
 
-📧 Se quiser entra em contato pode me enviar um [email](mailto:jo.mfarina@gmail.com)
+📧 Se quiser entra em contato pode me enviar um [email](mailto:jo.mfarina@gmail.com).
 
 
 
