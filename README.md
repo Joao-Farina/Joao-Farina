@@ -1,4 +1,4 @@
-## ![](./img.png)
+## ![](./img_resized.png)
 
 
 ### Hi there 👋
