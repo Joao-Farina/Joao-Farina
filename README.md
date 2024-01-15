@@ -2,12 +2,15 @@
 
 ## Hello 👋
 
-### Sobre mim
+### 📍 Sobre mim
 
 Olá! Sou João, um apaixonado por tecnologia com uma base sólida em engenharia civil. Com cinco anos de experiência nessa área, aprendi a importância da precisão e eficiência em cada projeto. No entanto, minha verdadeira paixão sempre foi a tecnologia, e em 2023 decidi seguir meu coração e me aprofundar no mundo do desenvolvimento.
+
 Atualmente, estou imerso no universo do desenvolvimento fullstack, com um foco especial em JavaScript. Desde que iniciei minha jornada, tenho dedicado meu tempo ao estudo e aprimoramento constante para elevar a qualidade do código que desenvolvo.
 
+📚 Estou estudando atualmente [javascript](https://www.javascript.com/) 
 
+📧 Se quiser entra em contato pode me enviar um [email](mailto:jo.mfarina@gmail.com)
 
 
 
